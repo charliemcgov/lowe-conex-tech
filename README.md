@@ -5,5 +5,5 @@ This repo contains my attempt at the Lowe Conex challenge. The aim is to use two
 
 ## Dependencies
 - The notebook is developed using Python 3.14.0
-- Modules requiring install are listed in the requirements.txt file
+- Modules requiring install are listed in the `requirements.txt` file
 
